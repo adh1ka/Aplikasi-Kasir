@@ -1,0 +1,52 @@
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\bin\Debug\AppKasir.exe.config
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\bin\Debug\AppKasir.exe
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\bin\Debug\AppKasir.pdb
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.AssemblyReference.cache
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.loginForm.resources
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.mainForm.resources
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.cache
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.CoreCompileInputs.cache
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.exe
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.pdb
+C:\Users\IT Software\source\repos\AppKasir\AppKasir\obj\Debug\AppKasir.karyawanForm.resources
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe.config
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.pdb
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.AssemblyReference.cache
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.SuggestedBindingRedirects.cache
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.mainForm.resources
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.loginForm.resources
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.karyawanForm.resources
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.cache
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.CoreCompileInputs.cache
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.exe
+D:\learning\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.pdb
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe.config
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.pdb
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.AssemblyReference.cache
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.SuggestedBindingRedirects.cache
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.mainForm.resources
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.loginForm.resources
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.karyawanForm.resources
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.cache
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.CoreCompileInputs.cache
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.exe
+D:\h-temp\lks\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.pdb
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe.config
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.exe
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\bin\Debug\AppKasir.pdb
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.AssemblyReference.cache
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.SuggestedBindingRedirects.cache
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.mainForm.resources
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.loginForm.resources
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.karyawanForm.resources
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.Properties.Resources.resources
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.GenerateResource.cache
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.csproj.CoreCompileInputs.cache
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.exe
+D:\learning\bahan\bahan\AppKasir\AppKasir\AppKasir\obj\Debug\AppKasir.pdb
